@@ -1,7 +1,7 @@
 
 # CityHack22-AI-Pen-pineapple-apple-pen
 =======
-# Prediction demand by AI technology
+# Prediction Delivery Demand by AI Technology
 ![Umbrella](Umbrella.png)
 ### Team：Pen pineapple apple pen
 Team Member: DU Sicheng (Team Leader)
