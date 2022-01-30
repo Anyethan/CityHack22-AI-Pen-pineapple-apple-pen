@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CityHack22-AI-Pen-pineapple-apple-pen
 =======
 # Prediction demand by AI technology
